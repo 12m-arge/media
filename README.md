@@ -1,3 +1,3 @@
 media
 =====
-12M realted media files
+12M related media files
